@@ -15,7 +15,7 @@ Services
 
 ---
 
-## 🚀 Project Setup
+## Project Setup
 
 ### Prerequisites
 -  **Java 17+**
