@@ -38,6 +38,8 @@ Testing the Services
 1-Test User Service
 
 curl http://localhost:8081/users
+
+
 2-Test Booking Service
 Book a sample class:
 
@@ -45,6 +47,9 @@ Book a sample class:
 curl -X POST http://localhost:8082/bookings \
      -H "Content-Type: application/json" \
      -d '{"userId":1,"className":"Yoga"}'
+
+
+     
 3-Test Notification Service
 Send a test notification:
 
